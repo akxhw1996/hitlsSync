@@ -12,8 +12,6 @@ openHiTLS架构高度模块化，可通过模块和特性配置。RAM/ROM尺寸�
 1. 功能特性：TLS1.2、TLS1.3、DTLS1.2、TLCP；AES，SM4，Chacha20，RSA，DSA，ECDSA，ECDH，DH，SM2，DRBG，HKDF，SCRYPT，PBKDF2，SHA2，SHA3，MD5，SM3，HMAC；PKI
 2. DFX特性：高度模块化特性按需配置的敏捷架构，ARM、x86上的算法性能优化，日志和错误堆栈功能的可维可测性
 
-更新
-
 ## 组件简介
 
 目前，openHiTLS有4个组件，其中BSL组件需和其他组件一起使用。
